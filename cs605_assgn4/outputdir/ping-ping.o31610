@@ -1,0 +1,142 @@
+Ping-Ping using 2 cores...
+PBS_O_WORKDIR: /home/605/deshpande/HW/hw4
+ RUNTIME - START  /bin/date
+--------------------------------------------------------------------------
+[[57004,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: node3
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+process 0: malloc()ed 0 bytes
+
+ 0.001575
+ 0.001578
+ 0.001580
+ 0.001581
+ 0.001582
+ 0.001583
+ 0.001584
+ 0.001585
+ 0.001586
+ 0.001587
+ Total Time 0.001587
+send rate for 0 is  0.000000 Mbits/second
+process 0: malloc()ed 67108864 bytes
+
+ 0.150071
+ 0.276339
+ 0.402058
+ 0.527957
+ 0.653574
+ 0.779978
+ 0.905667
+ 1.031662
+ 1.157682
+ 1.284011
+ Total Time 1.284011
+send rate for 8 is  7975.010261 Mbits/second
+process 0: malloc()ed 134217728 bytes
+
+ 0.298684
+ 0.550405
+ 0.802373
+ 1.054493
+ 1.306355
+ 1.558080
+ 1.809946
+ 2.062045
+ 2.313469
+ 2.565471
+ Total Time 2.565471
+send rate for 16 is  7982.938307 Mbits/second
+process 0: malloc()ed 201326592 bytes
+[node3:05349] 1 more process has sent help message help-mpi-btl-base.txt / btl:no-nics
+[node3:05349] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+
+ 0.448471
+ 0.827165
+ 1.205592
+ 1.583774
+ 1.961792
+ 2.340814
+ 2.718964
+ 3.097172
+ 3.474638
+ 3.852982
+ Total Time 3.852982
+send rate for 24 is  7973.044708 Mbits/second
+process 0: malloc()ed 268435456 bytes
+
+ 0.597727
+ 1.102603
+ 1.606355
+ 2.110786
+ 2.613874
+ 3.117955
+ 3.621206
+ 4.124991
+ 4.628715
+ 5.132690
+ Total Time 5.132690
+send rate for 32 is  7980.220971 Mbits/second
+process 0: malloc()ed 335544320 bytes
+
+ 0.744799
+ 1.375629
+ 2.004380
+ 2.634569
+ 3.263723
+ 3.894459
+ 4.523767
+ 5.153503
+ 5.782255
+ 6.412640
+ Total Time 6.412640
+send rate for 40 is  7984.231026 Mbits/second
+process 0: malloc()ed 402653184 bytes
+
+ 0.894786
+ 1.651062
+ 2.406487
+ 3.161845
+ 3.916702
+ 4.672590
+ 5.428546
+ 6.183977
+ 6.917248
+ 7.599449
+ Total Time 7.599449
+send rate for 48 is  8084.796760 Mbits/second
+process 0: malloc()ed 469762048 bytes
+
+ 1.014282
+ 1.808656
+ 2.602267
+ 3.397470
+ 4.191483
+ 5.057055
+ 5.939161
+ 6.820401
+ 7.699958
+ 8.581190
+ Total Time 8.581190
+send rate for 56 is  8353.153478 Mbits/second
+process 0: malloc()ed 536870912 bytes
+
+ 1.192233
+ 2.198982
+ 3.204283
+ 4.210044
+ 5.214337
+ 6.220185
+ 7.224584
+ 8.229674
+ 9.232541
+ 10.238889
+ Total Time 10.238889
+send rate for 64 is  8000.868266 Mbits/second
+ RUNTIME - END  /bin/date/

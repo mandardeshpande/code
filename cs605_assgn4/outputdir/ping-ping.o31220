@@ -1,0 +1,130 @@
+Ping-Ping using 2 cores...
+PBS_O_WORKDIR: /home/605/deshpande/HW/hw4
+ RUNTIME - START  /bin/date
+process 0: malloc()ed 0 bytes
+
+ 0.000690
+ 0.000694
+ 0.000696
+ 0.000697
+ 0.000698
+ 0.000699
+ 0.000700
+ 0.000701
+ 0.000703
+ 0.000705
+ Total Time 0.000705
+send rate for 0 is  0.000000 Mbits/second
+process 0: malloc()ed 67108864 bytes
+
+ 0.089991
+ 0.154380
+ 0.209322
+ 0.263784
+ 0.318554
+ 0.373042
+ 0.441728
+ 0.527716
+ 0.613828
+ 0.699870
+ Total Time 0.699870
+send rate for 8 is  14631.291362 Mbits/second
+process 0: malloc()ed 134217728 bytes
+
+ 0.165803
+ 0.338730
+ 0.468074
+ 0.577407
+ 0.686468
+ 0.795598
+ 0.904793
+ 1.013947
+ 1.123245
+ 1.232316
+ Total Time 1.232316
+send rate for 16 is  16619.113697 Mbits/second
+process 0: malloc()ed 201326592 bytes
+
+ 0.211172
+ 0.375621
+ 0.579264
+ 0.773692
+ 1.008832
+ 1.269802
+ 1.529129
+ 1.788328
+ 2.047747
+ 2.253368
+ Total Time 2.253368
+send rate for 24 is  13632.924072 Mbits/second
+process 0: malloc()ed 268435456 bytes
+
+ 0.226887
+ 0.513111
+ 0.803357
+ 1.150730
+ 1.498587
+ 1.799264
+ 2.069571
+ 2.416997
+ 2.765337
+ 3.063136
+ Total Time 3.063136
+send rate for 32 is  13371.918527 Mbits/second
+process 0: malloc()ed 335544320 bytes
+
+ 0.447351
+ 0.850322
+ 1.123127
+ 1.394651
+ 1.667482
+ 1.990839
+ 2.425543
+ 2.710954
+ 3.060816
+ 3.378818
+ Total Time 3.378818
+send rate for 40 is  15153.229052 Mbits/second
+process 0: malloc()ed 402653184 bytes
+
+ 0.393580
+ 0.867762
+ 1.388199
+ 1.726864
+ 2.052702
+ 2.381253
+ 2.847516
+ 3.367593
+ 3.713284
+ 4.039633
+ Total Time 4.039633
+send rate for 48 is  15209.302295 Mbits/second
+process 0: malloc()ed 469762048 bytes
+
+ 0.394332
+ 0.802239
+ 1.238877
+ 1.731965
+ 2.340059
+ 2.947208
+ 3.554588
+ 4.161481
+ 4.666904
+ 5.190480
+ Total Time 5.190480
+send rate for 56 is  13809.898138 Mbits/second
+process 0: malloc()ed 536870912 bytes
+
+ 0.602884
+ 1.135222
+ 1.609564
+ 2.302755
+ 2.945259
+ 3.466253
+ 4.161376
+ 4.855481
+ 5.459568
+ 6.153651
+ Total Time 6.153651
+send rate for 64 is  13312.422172 Mbits/second
+ RUNTIME - END  /bin/date/

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<apartments>
+		<apartment>
+			<name>Piedra del sol</name>
+			<address>6050 Montezuma Road San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>The Suites on Paseo</name>
+			<address>5595 Lindo Paseo, San Diego, CA 92115</address>
+		</apartment>
+		<apartment>	
+			<name>Sterling Alvarado</name>
+			<address>6625 Alvarado Rd, San Diego, CA 92120</address>
+		</apartment>
+		<apartment>
+			<name>Albert's College Apartments</name>
+			<address>5460 55th St, San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Villa Alvarado</name>
+			<address>6050 Montezuma Road San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Aztec Corner</name>
+			<address>5504 Montezuma Road San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Zuma Apartments</name>
+			<address>6237 Montezuma Road San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Penthouse Apartments</name>
+			<address>6560 Montezuma Road San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Dorchester Apartments</name>
+			<address>6595 Montezuma Road San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Aztec Pacific Apartments</name>
+			<address>6663 Montezuma Road San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Corinthian Apartments</name>
+			<address>4981 Catoctin Dr San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Rolando Court Apartments</name>
+			<address>4881 Rolando Ct San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Corinthian Apartments</name>
+			<address>4981 Catoctin Dr San Diego, CA 92115</address>
+		</apartment>
+		<apartment>
+			<name>Corinthian Apartments</name>
+			<address>4981 Catoctin Dr San Diego, CA 92115</address>
+		</apartment>
+	</apartments>
+	<atms>
+		<name>Bank of America ATM</name>
+		<address>5131 College Ave San Diego CA 92182</address>
+		<name>US Bank ATM</name>
+		<address>6155 El Cajon Blvd San Diego CA 92115</address>
+		<name>Wells Fargo ATM</name>
+		<address>5500 Canyon Crest Dr San Diego CA 92182</address>
+		<name>Chase ATM</name>
+		<address>5300 Campanile Way San Diego CA 92115</address>
+		<name>Citibank ATM</name>
+		<address>5141 College Ave San Diego CA 92115</address>
+		<name>Union Bank ATM</name>
+		<address>5197 Waring Rd #100 San Diego CA 92120</address>
+		<name>ATM (7-Eleven)</name>
+		<address>6695 El Cajon Blvd San Diego CA 92115</address>
+	</atms>
+	<banks>
+		<name>Bank of America</name>
+		<address>6801 El Cajon Blvd San Diego CA 92115</address>
+		<name>US Bank</name>
+		<address>6155 El Cajon Blvd San Diego CA 92115</address>
+		<name>Wells Fergo Bank</name>
+		<address>4690 63rd St San Diego CA 92115</address>
+		<name>Chase Bank</name>
+		<address>3490 College Ave San Diego CA 92115</address>
+		<name>Union Bank</name>
+		<address>5197 Waring Rd #100 San Diego CA 92120</address>
+		<name>Citi Bank</name>
+		<address>5998 El Cajon Blvd San Diego CA 92115</address>
+	</banks>
+	<book_stores>
+		<name>KB Books</name>
+		<address>5187 College Ave San Diego, CA 92115</address>	
+		<name>Casken Inc</name>
+		<address>5187 College Ave San Diego, CA 92115</address>	
+		<name>Bountiful Books</name>
+		<address>5069 Catoctin Dr San Diego, CA 92115</address>	
+		<name>SDSU Bookstore</name>
+		<address>5500 Campanile Dr San Diego, CA 92182</address>	
+		<name>Nina's Books</name>
+		<address>6165 El Cajon Blvd San Diego, CA 92115</address>	
+		<name>Goodwill Industries Del Cerro Bookstore &amp; Donation Center</name>
+		<address>6378 Del Cerro Blvd San Diego, CA 92120</address>	
+	</book_stores>
+	<car_rentals>
+		<name>Zipcar Location</name>
+		<address>5500 Campanile Dr San Diego CA 92182</address>
+		<name>Car2Go</name>
+		<address>633 9th Ave San Diego CA 92101</address>
+		<name>Sensible Car Rental</name>
+		<address>6610 El Cajon Blvd San Diego CA 92115</address>
+		<name>Avis San Carlos Shopping Center Car Rental</name>
+		<address>8680 Navajo Rd #101 San Diego CA 92119</address>
+		<name>Dirt Cheap Car Rentals</name>
+		<address>3860 Rosecrans St San Diego CA 92110</address>
+		<name>Hertz Rent a Car</name>
+		<address>5910 Mission Gorge Rd San Diego, CA 92120</address>
+		<name>Hertz Rent a Car</name>
+		<address>7601 Alvarado Rd La Mesa CA 91942</address>
+		<name>Enterprise Rent-A-Car</name>
+		<address>3851 El Cajon Blvd San Diego CA 92115</address>
+		<name>Enterprise Rent-A-Car</name>
+		<address>7370 Broadway Lemon Grove CA 91945</address>
+		<name>Enterprise Rent-A-Car</name>
+		<address>4930 El Cajon Blvd San Diego, CA 92115</address>
+	</car_rentals>
+	<furniture_shops>
+		<name>IKEA</name>
+		<address>2149 Fenton Pkwy San Diego CA 92108</address>
+		<name>Furniture Outlet</name>
+		<address>6331 University ave San Diego CA 92115</address>
+		<name>AAA Public Auction</name>
+		<address>5730 El Cajon Blvd San Diego CA 92115</address>
+		<name>Studio 6608</name>
+		<address>6608 El Cajon Blvd San Diego CA 92115</address>
+		<name>The Home Depot</name>
+		<address>5920 Fairmount Ave San Diego CA 92120</address>
+		<name>Ashley Furniture HomeStore</name>
+		<address>7770 Miramar Rd, San Diego, CA 92126</address>
+		<name>Walmart Supercenter</name>
+		<address>3412 College Ave San Diego CA 92115</address>
+		<name>Brook Furniture Rental</name>
+		<address>8138 Miramar Rd San Diego CA 92126</address>
+		<name>CORT Furniture Rental</name>
+		<address>9404 Cabot Dr San Diego CA 92126</address>
+	</furniture_shops>
+	<gas_stations>
+		<name>ARCO</name>
+		<address>5111 College Ave San Diego CA 92115</address>
+		<name>Shell</name>
+		<address>5151 70th St La Mesa CA 91941</address>
+		<name>AMPM</name>
+		<address>6301 El Cajon Blvd San Diego, CA 92115</address>
+		<name>7-ELEVEN</name>
+		<address>6571 El Cajon Blvd San Diego CA 92115</address>
+		<name>ARCO</name>
+		<address>6098 University Ave San Diego CA 92115</address>
+		<name>7-ELEVEN</name>
+		<address>3603 College Ave San Diego CA 92115</address>
+		<name>Mobil</name>
+		<address>4282 Camino Del Rio N San Diego CA 92108</address>
+		<name>Lake Murray Shell &amp; Mart</name>
+		<address>5302 Lake Murray Blvd La Mesa CA 91942</address>
+	</gas_stations>
+	<gyms>
+		<name>Fit with jenny eclusive women's fitness</name>
+		<address>7202 El Cajon Blvd San Diego CA 92115</address>
+		<name>KettleFlex Fitness</name>
+		<address>6663 El Cajon Blvd San Diego CA 92115</address>
+		<name>Xplicit Fitness</name>
+		<address>4780 Mission George Pl San Diego CA 92120</address>
+		<name>Science Fitness Personal Traning</name>
+		<address>4228 Adams Ave San Diego, CA 92116</address>
+		<name>24 Hour Fitness</name>
+		<address>7450 University Ave La Mesa, CA 91942</address>
+	</gyms>	
+	<malls>
+		<name>Fashion Valley Mall</name>
+		<address>7007 Friars Road San Diego CA 92108</address>
+		<name>Westfield Mission Valley Mall</name>
+		<address>1640 Camino Del Rio N, San Diego, CA 92108</address>
+		<name>Grossmont Center</name>
+		<address>5500 Grossmont Center Drive La Mesa CA 91942</address>
+		<name>University Town Center (UTC)</name>
+		<address>4545 La Jolla Village Drive San Diego CA 92122</address>
+		<name>Westfield Horton Plaza</name>
+		<address>324 Horton Plaza San Diego CA 92101</address>
+		<name>Hazard Center Shopping Center</name>
+		<address>7510 Hazard Center Dr San Diego CA 92108</address>
+		<name>Carlsbad Premium Outlets</name>
+		<address>5620 Paseo del Norte Carlsbad CA 92008</address>
+		<name>Las Americas Premium Outlets</name>
+		<address>4211 Camino de la Plaza San Diego CA 92173</address>
+	</malls>
+	<mobile_shops>
+		<name>AT&amp;T</name>
+		<address>6945 Federal Blvd Lemon Grove CA 91945</address> 
+		<name>T- Mobile</name>
+		<address>5807 University Ave #6 San Diego CA 92115</address>
+		<name>Sprint</name>
+		<address>10389 Friars Rd San Diego CA 92120</address>
+		<name>Verizon</name>
+		<address>6348 College Grove Way #107 San Diego, CA 92115</address>
+	</mobile_shops>
+	<pharmacy>
+		<name>Walgreens</name>
+		<address>4029 43rd St #700 San Diego CA 92105</address>
+		<name>CVS Pharmacy</name>
+		<address>6265 El Cajon Blvd San Diego CA 92115</address>
+		<name>Best Pharmacy</name>
+		<address>5507 El Cajon Blvd San Diego CA 92115</address>
+		<name>Costco - La Mesa</name>
+		<address>8125 Fletcher Pkwy La Mesa CA 91942</address>
+		<name>Target</name>
+		<address>3424 College Ave San Diego CA 92115</address>
+		<name>Walmart</name>
+		<address>3412 College Ave San Diego CA 92115</address>
+		<name>Sam's Club Pharmacy</name>
+		<address>6336 College Grove Way San Diego CA 92115</address>
+		<name>Albertson's Pharmacy</name>
+		<address>5185 Waring Rd San Diego CA 92120</address>
+	</pharmacy>
+	<pizza_palces>
+		<name>Domino's Pizza</name>
+		<address>5185 College Ave San Diego, CA 92115</address>
+		<name>Domino's Pizza</name>
+		<address>4701 El Cajon Blvd, San Diego, CA 92115</address>
+		<name>Domino's Pizza</name>
+		<address>4701 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Pizza Hut</name>
+		<address>4090 El Cajon Blvd, San Diego, CA 92105</address>
+		<name>Pizza Hut</name>
+		<address>6729 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Pizza Hut</name>
+		<address>8011 University Ave La Mesa, CA 91941</address>
+		<name>Pizza Hut</name>
+		<address>10450 Friars Rd, San Diego, CA 92120</address>
+		<name>Papa John's Pizza</name>
+		<address>6925 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Papa John's Pizza</name>
+		<address>4415 University Ave San Diego, CA 92105</address>
+		<name>Papa John's Pizza</name>
+		<address>8665 Navajo Rd, San Diego, CA 92119</address>
+		<name>Papa John's Pizza</name>
+		<address>3737 Murphy Canyon Rd, San Diego, CA 92123</address>
+		<name>CiCi's Pizza</name>
+		<address>5801 University Ave San Diego, CA 92115</address>
+		<name>Woodstock's Pizza</name>
+		<address>6145 El Cajon Blvd #3p San Diego, CA 92115</address>
+		<name>New York Giant Pizza</name>
+		<address>6126 University Ave San Diego, CA 92115</address>
+		<name>Milo's Pizza</name>
+		<address>6686 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Little Caesars Pizza</name>
+		<address>6074 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Rosaria's Pizza</name>
+		<address>6305 University Ave San Diego, CA 92115</address>
+		<name>Zappy Pizza</name>
+		<address>Suite 315 5961 University Ave San Diego, California 92115</address>
+		<name>Fattes Pizza</name>
+		<address>6663 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Social Life Pizza</name>
+		<address>6011 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Pizza Boss</name>
+		<address>5131 College Ave San Diego, CA 92115</address>
+		<name>Oggi's Pizza</name>
+		<address>5500 Campanile Dr San Diego, CA 92182</address>
+		<name>Gus's Subs &amp; Pizza</name>
+		<address>5620 Baltimore Dr La Mesa, CA 91942</address>
+	</pizza_palces>
+	<postal_services>
+		<name>US Post Office</name>
+		<address>6401 El Cajon Blvd San Diego CA 92115</address>
+		<name>US Post Office</name>
+		<address>4740 Mission Gorge Pl San Diego CA 92120</address>
+		<name>US Post Office</name>
+		<address>3426 College Ave San Diego CA 92115 </address>
+		<name>DHL Worldwide Express Co</name>
+		<address>3636 Gateway Center Way San Diego CA 92102</address>
+		<name>The UPS Store</name>
+		<address>5173 Waring Rd San Diego CA 92120</address>
+		<name>The UPS Store</name>
+		<address>7918 El Cajon Blvd La Mesa CA 91941</address>
+		<name>The UPS Store</name>
+		<address>3245 UNIVERSITY AVE 1 SAN DIEGO CA 92104</address>
+		<name>She's The Shipper (FedEx &amp; UPS Authorized ShipCenter)</name>
+		<address>5638 Lake Murray Blvd La Mesa CA 91942</address>
+		<name>College Postal Plus (FedEx &amp; UPS Authorized ShipCenter)</name>
+		<address>6161 El Cajon Blvd B San Diego CA 92115</address>
+		<name>Postal Annex(FedEx &amp; UPS Authorized ShipCenter)</name>
+		<address>6549 Mission Gorge Rd San Diego CA 92120</address>
+	</postal_services>
+	<restaurants>
+		<name>Denny's</name>
+		<address>6970 Alvarado Rd San Diego, CA 92120</address>
+		<name>Marie Callender's Resturant</name>
+		<address>6950 Alvarado Rd San Diego, CA 92120</address>
+		<name>Florencia's Italian Restaurant</name>
+		<address>7200 Parkway Dr #111 La Mesa, CA 91942</address>
+		<name>Panda Express</name>
+		<address>4371 University Ave, San Diego, CA 92105</address>
+		<name>Alvarado Cafe</name>
+		<address>6475 Alvarado Rd San Diego, CA 92120</address>
+		<name>HomeTown Buffet</name>
+		<address>5881 University Ave San Diego, California 92115</address>
+		<name>IHOP</name>
+		<address>5851 University Ave San Diego, CA 92115</address>
+		<name>Senor Pancho Fresh Mexican Grill</name>
+		<address>5089 College Ave San Diego, CA 92115</address>
+		<name>Taco Bell</name>
+		<address>6104 University Ave San Diego, CA 92115</address>
+		<name>La Casita Mexican Grill </name>
+		<address>5157 College Ave San Diego, CA 92115</address>
+		<name>El Rodeo Mexican Food</name>
+		<address>6924 El Cajon Blvd San Diego, CA 92115</address>
+		<name>La Casa Maria</name>
+		<address>6969 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Gualberto's Taco Shop</name>
+		<address>5871 University Ave San Diego, CA 92115</address>
+		<name>Bangkok Poco the Restaurant</name>
+		<address>5157 College Ave San Diego, CA 92115</address>
+		<name>Best Thai Food Restaurant</name>
+		<address>6366 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Tamarind Thai Restaurant</name>
+		<address>7970 University Ave, La Mesa, CA 91941</address>
+		<name>Thai Taste</name>
+		<address>7030 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Ivory Thai Cuisine</name>
+		<address>5472 Adobe Falls Rd San Diego, CA 92120</address>
+		<name>Sala Thai Restaurant</name>
+		<address>6161 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Bamboo Fresh Thai Cuisine</name>
+		<address>7953 University Ave La Mesa, CA 91942</address>
+		<name>Sang Dao Restaurant</name>
+		<address>5421 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Van Hoa Vietnamese Restaurant</name>
+		<address>4016 54th St, San Diego, CA 92105</address>
+		<name>Taste of African Cuisine</name>
+		<address>5241 University Ave, San Diego, CA 92105</address>
+		<name>African Spice</name>
+		<address>4348 54th St San Diego, CA 92115</address>
+		<name>Himalayan Cuisine</name>
+		<address>7918 El Cajon Blvd La Mesa, CA 91942</address>
+		<name>Kasi Indian Restaurant</name>
+		<address>8590 Rio San Diego Dr, San Diego, CA 92108</address>
+		<name>India Express</name>
+		<address>5500 Grossmont Center Dr #299, La Mesa, CA 91942</address>
+	</restaurants>
+	<subs_burgers>
+		<name>McDonald's</name>
+		<address>5824 Montezuma Rd San Diego, CA 92115</address>
+		<name>McDonald's</name>
+		<address>5322 El Cajon Blvd San Diego, CA 92115</address>
+		<name>SUBWAY® Restaurants</name>
+		<address>4151 El Cajon Blvd San Diego, CA 92115</address>
+		<name>SUBWAY® Restaurants</name>
+		<address>5665 Lindo Paseo #103 San Diego, CA 92115</address>
+		<name>SUBWAY® Restaurants</name>
+		<address>5307 Lake Murray Blvd La Mesa, CA 91942</address>
+		<name>SUBWAY</name>
+		<address>4641 College Ave San Diego, CA 92115</address>
+		<name>The Pita Pit</name>
+		<address>5131 College Ave San Diego, CA 92115</address>
+		<name>Buddies Burgers LLC</name>
+		<address>5854 Montezuma Rd San Diego, CA 92115</address>
+		<name>4.0 Deli</name>
+		<address>5844 Montezuma Rd San Diego, CA 92184</address>
+		<name>The Habit Burger Grill</name>
+		<address>5500 Campanile Dr San Diego, CA 92115</address>
+		<name>Cheba Hut</name>
+		<address>6364 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Burger King</name>
+		<address>6135 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Smashburger</name>
+		<address>6061 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Jack In the Box</name>
+		<address>5155 College Ave San Diego, CA 92115</address>
+		<name>Jack In the Box</name>
+		<address>4751 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Carl's Jr.</name>
+		<address>8110 Parkway Dr La Mesa, CA 91942</address>
+		<name>D.Z. Akin's Delicatessen</name>
+		<address>6930 Alvarado Rd San Diego, CA 92120</address>
+		<name>Burger Lounge | Kensington</name>
+		<address>4116 Adams Ave San Diego, CA 92116</address>
+		<name>Burger King</name>
+		<address>4144 University Ave San Diego, CA 92105</address>
+		<name>Cali Baguette Express</name>
+		<address>5125 El Cajon Blvd San Diego, CA 92115</address>
+	</subs_burgers>
+	<supermarkets>
+		<name>Ralphs</name>
+		<address>6670 Montezuma Rd San Diego, CA 92115</address>
+		<name>Vons</name>
+		<address>6155 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Vons</name>
+		<address>8011 University Ave La Mesa, CA 91941</address>
+		<name>Food 4 Less</name>
+		<address>5975 University Ave San Diego, CA 92115</address>
+		<name>Albertsons</name>
+		<address>5185 Waring Rd San Diego, CA 92120</address>
+		<name>Himalayan Bazaar</name>
+		<address>7918 El Cajon Blvd La Mesa, CA 91942</address>
+		<name>Vine Ripe Market</name>
+		<address>8191 Fletcher Pkwy La Mesa, CA 91942</address>
+		<name>Sprouts Farmers Market</name>
+		<address>4630 Palm Ave, La Mesa, CA 91941</address>
+		<name>Hamarweyne Food Market</name>
+		<address>6122 University Ave San Diego, CA 92115</address>
+		<name>99 Cents Only Stores</name>
+		<address>5931 University Ave San Diego, CA 92115</address>
+		<name>World Foods Supermarket</name>
+		<address>5245 El Cajon Blvd San Diego, CA 92115</address>
+		<name>Walmart Supercenter</name>
+		<address>3412 College Ave San Diego CA 92115</address>
+	</supermarkets>
+	<theatres>
+		<name>AMC Fashion Valley</name>
+		<address>7007 Friars Road San Diego CA 92108</address>
+		<name>AMC Mission Valley</name>
+		<address>1640 Camino Del Rio N San Diego CA 92108</address>
+		<name>Westfield Horton Plaza</name>
+		<address>324 Horton Plaza San Diego CA 92101</address>
+		<name>Hazard Center Shopping Center</name>
+		<address>7510 Hazard Center Dr San Diego CA 92108</address>
+		<name>Edwards Theaters Rancho San Diego Stadium 15 Movie Theater</name>
+		<address>2951 Jamacha Rd El Cajon CA 92019</address>
+	</theatres>
+</data>
